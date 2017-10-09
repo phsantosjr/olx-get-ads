@@ -1,1 +1,1 @@
-This script scraps the data from car's detailed page from OLX.
+# Scrap para anúncios de veículos no portal OLX do Brasil
